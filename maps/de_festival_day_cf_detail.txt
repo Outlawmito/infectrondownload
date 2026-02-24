@@ -1,0 +1,21 @@
+// 魔尊火线游戏地图细节数据
+
+-001		detail/dt_stone1		10		10
+-004			detail/dt_stone1		10		10
+-002		detail/dt_stone1		10		10
+-003 		detail/dt_stone1		10		10
+-004			detail/dt_stone1		10		10
+-005		detail/dt_stone1		10		10
+-006			detail/dt_stone1		10		10
+-007		detail/dt_stone1		10		10
+-008			detail/dt_stone1		10		10
+-009		detail/dt_stone1		10		10
+-010		detail/dt_wood2			10		10
+-011		detail/dt_wood2			10		10
+-012		detail/dt_wood2			10		10
+-013		detail/dt_stone1		10		10
+-014		detail/dt_wood 			10		10
+-015		detail/dt_wood 			10		10
+-016		detail/dt_wood 			10		10
+-017		detail/dt_wood 			10		10
+!WATERSIL03	     detail/conc 		        10.0    10.0

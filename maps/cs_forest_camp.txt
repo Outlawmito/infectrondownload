@@ -1,0 +1,19 @@
+------------------------------
+
+Forest Camp - Hostage Rescue
+
+by ZombieSource 
+(Winkler@specialistsmod.net.ru)
+
+------------------------------
+
+Counter-Terrorists: Rescue the hostages. 
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Note: There are 4 hostages in the mission. 
+
+Other Notes: Map made special for CS-mapping.com.ua 
+2018 "Make The Mess" Mapping Contest.
+
+------------------------------

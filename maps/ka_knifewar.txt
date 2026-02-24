@@ -1,0 +1,12 @@
+ka_knifewar - A knife fight based on de_dust
+by North*Star (stuartbaird@hotmail.com)
+built for clan [DW] Dustworld - www.dustworld.co.uk
+-------------------------------------------------------
+
+Counter-Terrorists: Take out the Terrorist threat!
+
+Terrorists: Take out the opposing Counter-Terrorists!
+
+-------------------------------------------------------
+
+(Press FIRE to continue)

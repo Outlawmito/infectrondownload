@@ -1,0 +1,24 @@
+CocktailCruiser - Bomb/Defusion
+Map by Daniel Eggert (the_funatic@yahoo.com)
+Original sky textures from as_oilrig by MacMan (macmaninfi@aol.com) 
+and from cs_backalley by TYR (tyr@barking-dog.com) 
+modified by Daniel Eggert.  
+
+Background: Terrorists have captured a freigher carrying an 
+extremely hazardous cocktail of chemical and biological waste.
+They killed the crew and navigated the cargo ship into the 
+Hudson Bay, after they turned it into a "doomsday topedo".
+Now they are ready to blow off the whole ship in the middle of New York City.
+CT's have started the operation "cocktail-cruiser" and are raiding the
+freighter.
+
+Counter-Terrorists: Prevent Terrorists
+from placing C4 to the explosive crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the two targets. 
+
+
+(Press FIRE to continue)

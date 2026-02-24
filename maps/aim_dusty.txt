@@ -1,0 +1,8 @@
+Aim Dusty - Aiming
+by DelaZ (DelaZ@skynet.be)
+textures by Macman (MacManInfi@aol.com)
+
+Counter-Terrorists: Eliminate all Terrorist forces
+Terrorists: Eliminate all Counter-Terrorists forces
+
+(Press FIRE to continue)

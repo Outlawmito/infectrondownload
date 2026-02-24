@@ -1,0 +1,18 @@
+DE_SASH - Bomb/Defuse
+by J.D. (jd@igromania.ru)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing nuclear weapon crates.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the nuclear
+weapon crates or truck full of that shit.
+
+Other Notes: There are 2 bomb sites
+in the mission.
+
+Other Notes: MADE IN RUSSIA!
+
+(Press FIRE to continue)

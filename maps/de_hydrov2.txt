@@ -1,0 +1,21 @@
+Hydro Electric V2 - Bomb/Defuse
+by FreakyZoid 
+
+A terrorist faction is attempting to
+disable HFN's hyrdo-electric plant by
+either destroying the main generator,
+or by blowing up the flow control
+situated on the main bridge.
+
+Counter-Terrorists: Prevent Terrorists
+from bombing either target. Team members
+must defuse any bombs that threaten the
+targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the given targets. 
+
+Other Notes: There are 2 targets 
+in this mission. 
+
+(Press FIRE to continue)

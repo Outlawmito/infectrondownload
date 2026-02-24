@@ -1,0 +1,26 @@
+~light5a	detail/smooth1	8.0	8.0
+chair		detail/pool_day/salong	1.0	0.5
+floor		detail/pool_day/bela	1.0     1.0
+floor_tileblue	detail/pool_day/blue_plocha	1.0	1.0
+glassblue1	detail/smooth1	20.0	20.0
+locker		detail/pool_day/shkafche	1.0	1.0
+lockerside	detail/pool_day/metal	8.0	8.0
+nocrap		detail/pool_day/layno	1.0	1.0
+poolrules	detail/pool_day/smooth1	16.0	16.0
+SandCrtLrgSd	detail/pool_day/govno	5.0	5.0
+shower		detail/pool_day/metal	4.0	4.0
+stallred	detail/pool_day/vrata_red	0.5	0.33
+steel		detail/pool_day/metal	8.0	8.0
+tile3		detail/pool_day/blue_wall	1.0	1.0
+tile		detail/pool_day/white_plocha	1.0	1.0
+tilefloor_red	detail/pool_day/red_plocha	1.0	1.0
+tilemini_blue	detail/pool_day/mini_blue	1.0	1.0
+tilemini_red	detail/pool_day/mini_red	1.0	1.0
+wal_walltile	detail/pool_day/white_wall	1.0	1.0
+wall_tileBlue	detail/pool_day/blue_wall	1.0	1.0
+wall_tileRed	detail/pool_day/red_wall	1.0	1.0
+walmart_blue	detail/pool_day/vrata_blue	0.5	0.33
+white		detail/pool_day/smooth1	8.0	8.0
+window		detail/pool_day/smooth1	4.0	8.0
+
+

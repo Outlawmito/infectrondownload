@@ -1,0 +1,8 @@
+Installation:
+
+bsp. extract to cstrike\maps
+txt. extract to cstrike\maps
+tga. extract to cstrike\gfx\env
+wad. extract to cstrike
+
+

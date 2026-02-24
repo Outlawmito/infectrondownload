@@ -1,0 +1,13 @@
+//Texture map by ELECTRO (高精度贴图文档，需要高精度材质)
+// [文理名称]		[细节纹理名称]		[hscale]	  [vscale]
+
+Sand1		detail/dt_ground4	5	5
+Sand3		detail/dt_ground4	5	5
+W-0001		detail/dt_wood		6	6
+W-0002		detail/dt_ssteel1	5	5
+W-0003		detail/dt_wood3		5	5
+W-0005		detail/dt_wood3		5	5
+W-0006		detail/dt_wood3		5	5
+W-0007		detail/dt_ssteel1	8	8
+W-0008		detail/dt_wood3		10	10
+W-0010		detail/dt_wood		10	10

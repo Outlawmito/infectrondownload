@@ -1,0 +1,15 @@
+de_greece
+map by Karloose the Moose
+textures by Legshagger
+
+Terrorists-
+	Blow up the beer cellar or
+the night club store room which will
+cost the owners dearly for not paying
+up.
+
+Counter terrorists-
+	Prevent the terrorists from
+damaging the night club at all costs.
+
+press FIRE to continue

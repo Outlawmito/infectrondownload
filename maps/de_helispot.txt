@@ -1,0 +1,18 @@
+Helispot - Bomb/Defuse
+by Skyova (Shodiq Hidayah)
+https://lnks.cc/aboutme or (shodiqhidayah27@gmail.com)
+
+--------------------------------------
+In Tangkilsari - Kab. Malang, Indonesia 2018. 
+A peaceful afternoon suddenly became chaotic because of a terror bomb that hit. 
+With helicopters, Free Rebels (Terrorist) attacked and detonated government-owned buildings. 
+CT-FORCE and Intelligence Agencies were assigned to guard the place as well as to thwart any terrorist attack attempts at that time.
+
+This map has 3 buildings with 1 circular road and 1 outer road.
+---------------------------------------
+
+1. Counter-Terrorists: Prevent Terrorists from bombing one of the building (Rooftop). Team members must defuse any bombs that threaten targeted areas or Eliminate all the Terrorists.
+2. Terrorists: The Terrorist carrying the C4 must destroy one of the Building (Rooftop)
+3. Other Notes: There are 3 Machine Gun at the 2 Helicopter, and the Hummer one. 3 SpySam. Hidden Weapons. *The Ladders is to simplified bots path*
+
+(Press FIRE to continue)

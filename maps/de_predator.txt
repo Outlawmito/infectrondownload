@@ -1,0 +1,22 @@
+DE_PREDATOR - DEFUSION
+By Michael Visser aka 3D_Mike
+(3DMike@nmtrix.com)
+(3D_Mike@soneramail.nl)
+www.lanmaniax.com
+
+Somewhere in a small south-american country a nuclear
+explosion shakes the world. A local Terrorist fraction
+discovers the secret behind the explosion and set up
+an excavation site to claim the newfound technology.
+They are quickly overtaken by a CT-team dispatched to
+retreive the same information. The Terrorists retreat
+deep into the jungle and decide to blow the excavation
+site in a desperate attempt to prevent the CT-troups
+from finding out what caused the explosion.
+
+Terrorists:
+-Bomb Fuel depot or Bunker.
+
+Counter-Terrorists:
+-Prevent the Terrorists from bombing.
+

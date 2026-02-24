@@ -1,0 +1,12 @@
+gfx/env/arkzmsky1bk.tga
+gfx/env/arkzmsky1dn.tga
+gfx/env/arkzmsky1ft.tga
+gfx/env/arkzmsky1lf.tga
+gfx/env/arkzmsky1rt.tga
+gfx/env/arkzmsky1up.tga
+maps/zm_ark_christmas_street.res
+sound/arkzm_security.wav
+models/arkzm/arkzmtree1.mdl
+models/arkzm/arkzmtree2.mdl
+models/arkzm/arkzmtree3.mdl
+models/arkzm/arkzmroad.mdl

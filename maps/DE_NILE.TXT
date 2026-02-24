@@ -1,0 +1,17 @@
+Nile - Bomb/Defuse
+BY  Oskar(kayu6@hotmail.com)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the chemical weapon crates.  
+Themission can be targeted from above
+and below. Team members must defuse 
+any bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the chemical weapon crates
+marked "X".
+
+Other Notes: There are 2 bomb targets
+in the mission. 
+
+(Press FIRE to continue)

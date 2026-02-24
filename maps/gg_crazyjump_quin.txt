@@ -1,0 +1,15 @@
+Map info
+--------------------------------
+Map name : aim_crazyjump_quin
+Map based : aim_crazyjump
+
+Creator info
+--------------------------------
+Nick name : Quindoo
+Real name : Bram Buermans
+Country : The Netherlands
+--------------------------------
+
+Other map(s)
+--------------------------------
+aim_assault_quin

@@ -1,0 +1,13 @@
+▬▬▬▬▬▬▬▬▬▬▬▬MAIN INFO▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Map				: de_dust2002_spring_b1 
+Origin map		: de_dust2002
+Author			: xZenon 
+▬▬▬▬▬▬▬▬▬▬▬▬CONTACTS▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Steam			: Steamcommunity.com/id/xZenon
+Official Site	: xZenon-MAPS.INFO
+▬▬▬▬▬▬▬▬▬▬▬▬RESOURCES▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+Textures		: JustErroR^(https://gamebanana.com/maps/196095) / xZenon
+Sky				: NEXON Korea Corp.	/
+Models			: Valve	/ Others
+Sounds			: JustErroR^(https://gamebanana.com/maps/196095) 
+Sprites			: DimeX

@@ -1,0 +1,12 @@
+Urban - Bomb/Defuse
+by JohnDie (johndie@hot.ee)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the pizza bar. 
+Team members must defuse any 
+bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the pizza bar.
+
+(Press FIRE to continue)

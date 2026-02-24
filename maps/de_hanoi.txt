@@ -1,0 +1,22 @@
+Hanoi - Bomb/Defuse
+by Tommy (http://www.youtube.com/user/T0mmyPL)
+Classic Car prefab by Corvalho (modified by me :D)
+
+Background: Fight in the infamous prison camp.
+It is a medium/large sized map, with a prison
+inside and a barricaded street along the outside.
+Taking place at night, the map is quite dark.
+The location of the map is a North Vietnamese
+Army prison, based on the real-life Hanoi Hilton.
+
+Counter-Terrorists: Prevent Terrorists
+from planting a bomb.
+Team members must defuse any bombs 
+that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the bomb
+sites. 
+
+Other Notes: There are 2 bomb
+targets in the mission.

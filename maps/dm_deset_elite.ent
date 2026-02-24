@@ -1,0 +1,422 @@
+{
+"compiler" "ZHLT v3.4 VL34 (Aug 17 2015)"
+"_generator" "J.A.C.K. 1.1.1064 (vpHalfLife)"
+"mapversion" "220"
+"angles" "0 0 0"
+"MaxRange" "6000"
+"skyname" "Des"
+"message" "Creado Por VHE (El pirucho XP-007)"
+"classname" "worldspawn"
+}
+{
+"origin" "-1120 -288 208"
+"item" "10"
+"count" "1"
+"angles" "0 270 0"
+"classname" "armoury_entity"
+}
+{
+"model" "*1"
+"angles" "0 0 0"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_wall"
+}
+{
+"model" "*2"
+"angles" "0 0 0"
+"zhlt_invisible" "1"
+"classname" "func_ladder"
+}
+{
+"model" "*3"
+"angles" "0 0 0"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_wall"
+}
+{
+"model" "*4"
+"angles" "0 0 0"
+"skin" "-1"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_illusionary"
+}
+{
+"model" "*5"
+"angles" "0 0 0"
+"zhlt_invisible" "1"
+"classname" "func_ladder"
+}
+{
+"model" "*6"
+"angles" "0 0 0"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_wall"
+}
+{
+"model" "*7"
+"angles" "0 0 0"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_wall"
+}
+{
+"model" "*8"
+"angles" "0 0 0"
+"zhlt_invisible" "1"
+"classname" "func_ladder"
+}
+{
+"model" "*9"
+"angles" "0 0 0"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_wall"
+}
+{
+"model" "*10"
+"angles" "0 0 0"
+"skin" "-1"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_illusionary"
+}
+{
+"origin" "480 -304 208"
+"item" "10"
+"count" "1"
+"angles" "0 270 0"
+"classname" "armoury_entity"
+}
+{
+"model" "*11"
+"angles" "0 0 0"
+"zhlt_invisible" "1"
+"classname" "func_ladder"
+}
+{
+"model" "*12"
+"angles" "0 0 0"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_wall"
+}
+{
+"origin" "144 -968 96"
+"item" "10"
+"count" "1"
+"angles" "0 120 0"
+"classname" "armoury_entity"
+}
+{
+"origin" "-512 1344 392"
+"_diffuse_light" "255 255 128 200"
+"angles" "-90 270 0"
+"_fade" "1.0"
+"_light" "255 255 255 200"
+"classname" "light_environment"
+}
+{
+"origin" "-1728.32 699.94 64"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1728.32 571.94 64"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1792 -768 64"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1792 -896 64"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1792 -1008 64"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1567 -1036 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1567 -924 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1567 -796 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1503.32 671.94 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1503.32 543.94 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1370 -921 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1370 -809 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1306.32 530.94 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1306.32 786.94 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1306.32 658.94 75"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "-1216 -832 64"
+"model" "models/player/gsg9/gsg9.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_start"
+}
+{
+"origin" "782 -961 51"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "782 -849 51"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "749.424 474.071 51"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "749.424 730.071 51"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "749.424 602.071 51"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "926 -969 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "926 -857 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "893.424 466.071 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "893.424 722.071 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "893.424 594.071 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "1062 -961 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "1062 -849 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "1088 416 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "992 800 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "1216 448 59"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "640 -832 48"
+"model" "models/player/guerilla/guerilla.mdl"
+"sequence" "1"
+"angles" "0 0 0"
+"classname" "info_player_deathmatch"
+}
+{
+"origin" "-304 -1216 336"
+"target" "camara_1"
+"deceleration" "500"
+"acceleration" "500"
+"wait" "10"
+"angles" "0 0 0"
+"spawnflags" "1"
+"classname" "trigger_camera"
+}
+{
+"origin" "-304 -1528 336"
+"angles" "0 0 0"
+"targetname" "camara_1"
+"classname" "info_target"
+}
+{
+"origin" "400 608 320"
+"target" "camara_2"
+"deceleration" "500"
+"acceleration" "500"
+"wait" "10"
+"angles" "0 0 0"
+"spawnflags" "1"
+"classname" "trigger_camera"
+}
+{
+"origin" "192 384 224"
+"angles" "0 0 0"
+"MaxRange" "6000"
+"targetname" "camara_2"
+"classname" "info_target"
+}
+{
+"origin" "1216 -1184 336"
+"count" "1"
+"item" "13"
+"angles" "0 270 0"
+"classname" "armoury_entity"
+}
+{
+"origin" "-1880 -1176 296"
+"count" "1"
+"item" "13"
+"angles" "0 270 0"
+"classname" "armoury_entity"
+}
+{
+"model" "*13"
+"angles" "0 0 0"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_wall"
+}
+{
+"model" "*14"
+"angles" "0 0 0"
+"rendermode" "4"
+"rendercolor" "0 0 0"
+"renderamt" "255"
+"classname" "func_wall"
+}
+{
+"model" "*15"
+"angles" "0 0 0"
+"zhlt_invisible" "1"
+"classname" "func_ladder"
+}

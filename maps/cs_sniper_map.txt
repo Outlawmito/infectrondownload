@@ -1,0 +1,81 @@
+================================================================
+ PLAY INFORMATION
+================================================================
+
+Title			: cs sniper map by CTC7777
+Filename		: cs_sniper_map_CTC7777_.bsp cs_sniper_map_CTC7777_.wad and rock2.wav
+Game			: Half-Life
+Type/Mod		: Counterstrike
+
+Author			: CTC7777  TH
+Email Address		: CTC7777@hotmail.com  or CTC7777@philosophers.net
+Homepage		: http://communities.msn.com/CounterstrikeDbyctc7777
+player start points     : counter: 20 p terrors : 20 p
+================================================================
+ DESCRIPTION
+================================================================
+i wanted make great sniping map something like cs_assault but diffrent 
+and here this is !!!
+
+
+The story
+
+T: Have taken control of city they are all around city and VERY good sniping points
+
++ sniping points
++good cover places
+-cant rush so fast
+
+
+
+
+CT:
++ can rush very fast with group 
++only 4 hostages
+-not so good sniping points
+-terrors start at roof
+-not so much cover
+
+
+cs_sniper_map_CTC7777_ is a rescue map with 4 hostages, with sniping points 
+and city like feeling .
+And good textures and wavs
+ 
+
+================================================================
+ CONSTRUCTION
+================================================================
+Editor(s) Used		: QUAKE ARMY KNIFE  QUARK
+Build Time		: Not Sure
+Compile Machine		: P3 500 MHZ
+Compile Time		: Not Sure
+
+================================================================
+ ADDITIONAL INFORMATION
+================================================================
+
+thx 4 downloading cs_sniper_map_BY_CTC7777_ CTC7777@hotmail.com (tommi00hakola00@hotmail.com)
+http://communities.msn.com/CounterstrikedBYctc7777
+
+================================================================
+ COPYRIGHT / PERMISSIONS
+================================================================
+
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
+
+________________________________________________________________
+
+
+by CTC7777 T hakola CTC7777@hotmail.com and CTC7777@philosophers.com
+
+cs_sniper_map_CTC7777_  .
+
+__________________________________________________________________ 
+__________________________________________________________________

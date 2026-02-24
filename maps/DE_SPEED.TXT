@@ -1,0 +1,34 @@
+**** This map designed for the Counter-Strike Half-Life mod ****
+
+================================================================
+Title:	       Speed	
+Filename:      de_speed.bsp
+Author:        Tim Sahling
+Email Address: TimSahling@gmx.de
+Description:   Counter-Strike Defusion Map
+================================================================
+
+
+new WAD's               : No
+new sky's		: No
+
+* Construction *
+
+Editor(s) used          : Worldcraft 2.1
+Known Bugs              : none
+Construction Time       : about 3 weeks
+Build Computer          : PII 400 , 128 MB SDRAM
+
+
+* Files included in this archive *
+de_speed.bsp        : Map file.
+de_speed.txt        : text file.
+
+* Other Info *
+This is my first map I ever made!!!!!!
+
+
+*Map Information*
+It's a long train.The Counter-Terrorists begin at the top of the train.The Terrorists 
+must enter the locomotive and defuse the bomb.
+

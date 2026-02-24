@@ -1,0 +1,21 @@
+de_pl_nitedust2 - Bomb/Defuse
+
+dedicated to Pool-litres gaming server
+visit us at www.games.vysocinanet.cz
+created by Slava (slava.fikar@seznam.cz)
+              ~2006~
+
+Counter-Terrorists: Prevent Terrorists
+from bombing chemical weapon crates.
+Counter-terrorist have to defuse any bombs 
+that are planted in those areas. Bombing
+those areas would cause heavy civilian 
+losses.
+
+Terrorists: The Terrorist carrying the
+C4 have to destroy one of the chemical 
+weapon stashes located nearby the mosque.
+Strike western crusaders in the name of Allah! 
+
+Other Notes: There are 2 chemical 
+weapon stashes in the map.

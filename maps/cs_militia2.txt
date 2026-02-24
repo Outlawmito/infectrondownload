@@ -1,0 +1,17 @@
+cs_militia2 - Hostage Resuce
+by Stefan Brunnlechner (Badrocker@web.de - ICQ: 121722046)
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages or eliminate
+the Counter-Terrorists.
+
+Counter-Terrorists:  Search the garden garage 
+with the hostages and get them out of there.
+
+Other Notes: There's a funny crate in the map.
+Test it.
+
+-- Please contact me and tell me
+your opinion about this map. --
+
+(Press FIRE to continue)

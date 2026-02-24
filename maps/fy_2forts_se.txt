@@ -1,0 +1,47 @@
+fy_2forts_se (sCissors edition)
+===============================
+
+original fy_2forts map by sclick 
+(sclick@bol.com.br) 
+
+edited by sCissors 
+(scissors_of_hell@yahoo.com)
+
+===============================
+7.12.2005
+
+Fixes:
+------
+
+Map is symmetrical.
+
+Fixed ladder brushes.
+
+Sky top is raised higher.
+
+CTs start facing the fort, not the back wall.
+
+Player spawns closer in, away from the sides, to prevent spawn killings.
+
+Added more weapons on the ground. 
+
+Textures are aligned.
+
+Buyzone is in the cage in the middle of the map 
+to eliminate grenade spamming, and makes it harder
+to buy AWP.
+
+Players are equiped with armor and helmet and a p228 pistol
+at the start of each round.
+
+
+===============================
+
+scilck - thanks to MIB forum helpers - Special thanks to Joao Vitor
+
+sCissors - thanks to cs-purgatory and everyone on their fy_2forts server - thanks to scilck for such a great map - Special thanks to Erika Valencic 
+
+Get my other maps:
+http://www.freewebs.com/scissors_of_hell/
+
+

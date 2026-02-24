@@ -1,0 +1,12 @@
+es_LOSANGELES
+by Salamander
+Counter-Terrorists: Prevent terrorists
+from escaping to subway or vault.
+
+Terrorists: The bomb in the vault has a
+3-1/2 min. timer (approx) and will open an
+escape route to an adjoining building (out).
+When the bomb detonates everyone on that
+level will be eliminated.
+
+(Press FIRE to continue)

@@ -1,0 +1,66 @@
+// Editado por Zshiryu777
+//------------------------------------------------------------------------------
+// de_vertigo.wad
+//------------------------------------------------------------------------------
+// [texture name]       [detail/texture name]   	       [hscale]	[vscale]
+
+basebeamtop              detail/de_vertigo/basebeamtop		1.0	1.0
+crete33                  detail/de_vertigo/crete33 		2.0	2.0
+crossover04              detail/de_vertigo/crossover04		1.0	1.0
+gate02                   detail/de_vertigo/gate02  		1.0	1.0
+t_crate07                detail/de_vertigo/t_crate07            1.0     1.0
+t_crate08                detail/de_vertigo/t_crate08            1.0     1.0
+t_crate09                detail/de_vertigo/t_crate09            1.0     1.0
+t_crate10                detail/de_vertigo/t_crate10            1.0     1.0
+t_crate200001            detail/de_vertigo/t_crate200001	1.0	1.0
+t_crate210001            detail/de_vertigo/t_crate210001	1.0	1.0
+t_door09                 detail/de_vertigo/t_door09		1.0	1.0
+t_door10                 detail/de_vertigo/t_door09		1.0	1.0
+t_wall26                 detail/de_vertigo/t_wall26             1.0     1.0
+t_wall570001             detail/de_vertigo/t_wall570001		1.0	1.0
+t_wood01                 detail/de_vertigo/t_wood01             1.0     1.0
+t_wood02                 detail/de_vertigo/t_wood02             1.0     1.0
+
+//------------------------------------------------------------------------------
+// cstrike.wad
+//------------------------------------------------------------------------------
+// [texture name]       [detail/texture name]   	       [hscale]	[vscale]
+
+cstrike_me4metl          detail/dt_ground3       		10.0	10.0
+cstrike_oe4vent          detail/cstrike/cstrike_oe4vent 	1.0	1.0
+
+//------------------------------------------------------------------------------
+// halflife.wad
+//------------------------------------------------------------------------------
+// [texture name]       [detail/texture name]   	       [hscale]	[vscale]
+
+{fence2                  detail/halflife/{fence2       		1.0	1.0
+{grate4a                 detail/halflife/{grate4a       	1.0	1.0
+{rustyrungs              detail/halflife/{rustyrungs       	1.0	1.0
+{tension                 detail/dt_ground3       		10.0	10.0
++0exit                   detail/halflife/+0exit       		1.0	1.0
++0~fifties_lgt2          detail/dt_ground3       		10.0	10.0
++aexit                   detail/halflife/+0exit       		1.0	1.0
++a~fifties_lgt2          detail/dt_ground3       		10.0	10.0
+-0out_dirt2              detail/halflife/-0out_dirt2		1.0	1.0
+-1out_dirt2              detail/halflife/-0out_dirt2		1.0	1.0
+-2out_dirt2              detail/halflife/-0out_dirt2		1.0	1.0
+-3out_dirt2              detail/halflife/-0out_dirt2		1.0	1.0
+-4out_dirt2              detail/halflife/-0out_dirt2		1.0	1.0
+aaatrigger               detail/dt_ground3       		10.0	10.0
+black                    detail/dt_ground3       		10.0	10.0
+c1a3ventdr02             detail/halflife/c1a3ventdr02		1.0	1.0
+clip                     detail/dt_ground3       		10.0	10.0
+duct_wall04              detail/halflife/duct_flr01		1.0	1.0
+fifties_dsk5a            detail/dt_ground3       		10.0	10.0
+fifties_dsk5b            detail/dt_ground3       		10.0	10.0
+generic111b              detail/halflife/generic111b		1.0	1.0
+generic117               detail/halflife/generic117		1.0	1.0
+generic61                detail/halflife/generic61		1.0	1.0
+generic64                detail/halflife/generic64		1.0	1.0
+metal_bord021            detail/halflife/metal_bord021		1.0	1.0
+origin                   detail/dt_ground3       		10.0	10.0
+sky                      detail/dt_ground3       		10.0	10.0
+stripes2                 detail/halflife/stripes2		1.0	1.0
+trrm_pan5                detail/dt_metal2		        10.0	10.0
+trrm_pan6                detail/dt_metal2		        10.0	10.0

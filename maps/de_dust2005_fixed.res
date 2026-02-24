@@ -1,0 +1,9 @@
+maps/de_dust2005_fixed.bsp
+maps/de_dust2005_fixed.txt
+sound/waterfall1.wav
+GFX/env/mars1bk.tga
+GFX/env/mars1dn.tga
+GFX/env/mars1ft.tga
+GFX/env/mars1lf.tga
+GFX/env/mars1rt.tga
+GFX/env/mars1up.tga

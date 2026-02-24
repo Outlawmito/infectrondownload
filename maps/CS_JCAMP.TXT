@@ -1,0 +1,19 @@
+           J-CAMP       -  Prise d'otages
+
+de *Altex Mappers* (fkungh@caramail.com)
+
+Anti-terroristes : libérez les otages. 
+Faites attention aux espaces découverts, 
+les terroristes peuvent vous atteindre de 
+partout. 
+
+Terroristes : empêchez l'équipe anti-terroriste
+de libérer les otages. Un conseil, ne campez pas...
+
+Remarque supplémentaire : il y a 5 otages dans la 
+mission. Libérez-les ! 
+
+Ps: N'oubliez pas de passer en mode graphique 
+"direct 3d" ou "open GL" pour une meilleure exploitation!
+
+(Appuyez sur TIR pour continuer)

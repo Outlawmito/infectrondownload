@@ -1,0 +1,16 @@
+mapped by : WnTdm`Mercutio 
+thierry25hdk@*****.com
+
+de_dust2005_fixed - Bomb/Defuse
+
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the targeted areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets. 
+
+Other Notes: There are 2 targets 
+in this mission. 
+
+(Press FIRE to continue)

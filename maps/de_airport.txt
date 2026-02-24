@@ -1,0 +1,24 @@
+Airport - Bomb/Defuse
+Made by Foofinoo
+
+Map and Custom Textures by Foofinoo
+Normal Textures by VALVe
+
+
+
+Terrorists like Airports, they can explode, kill, hijack...
+But Skateboarders like Airports too. They can grind, do some tricks or create combos...
+And what Terrorists hate the most are skateboarders...
+Well, to piss them off, Terrorists decide to explode the Airport (I know, it's not really smart) !! 
+But Counter-Terrorists are there to stop them !!
+
+
+
+Terrorists : 
+Explode the Airport !! It will piss them off !!
+
+Counter-Terrorists :
+Prevent the Terrorists bombing the Airport
+
+NOTES : The map take place in the "Airport" map, in Tony Hawk's games (for me, THUG2)...
+It's not EXACTLY the same at 100%, but the layout is the same...

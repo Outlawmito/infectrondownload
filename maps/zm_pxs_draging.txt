@@ -1,0 +1,9 @@
+### CREATED BY ELEMENTAL @PXTeam ###
+
+MAP : zm_pxs_daging
+SLOT : 32
+GAMEMODE : Zombie Plague
+WEB : www.PXservers.com
+FORUM : www.PXservers.com/forum
+
+GOOD GAME :)

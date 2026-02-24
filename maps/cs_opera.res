@@ -1,0 +1,9 @@
+gfx/env/fullmoonup.tga
+gfx/env/fullmoondn.tga
+gfx/env/fullmoonlf.tga
+gfx/env/fullmoonrt.tga
+gfx/env/fullmoonft.tga
+gfx/env/fullmoonbk.tga
+models/hostage.mdl
+sound/ambience/waterfall3.wav
+sprites/fire.spr

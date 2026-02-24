@@ -1,0 +1,13 @@
+maps/dm_snw.res
+maps/dm_snw.txt
+gfx/env/skybk.tga
+gfx/env/skydn.tga
+gfx/env/skyft.tga
+gfx/env/skylf.tga
+gfx/env/skyrt.tga
+gfx/env/skyup.tga
+sprites/laserdot.spr
+editor.wad
+fen.wad
+win.wad
+wintercore2010.wad

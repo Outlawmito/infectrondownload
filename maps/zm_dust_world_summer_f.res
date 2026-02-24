@@ -1,0 +1,17 @@
+maps/zm_dust_world_summer_f.res
+gfx/env/fullmoonbk.tga
+gfx/env/fullmoondn.tga
+gfx/env/fullmoonft.tga
+gfx/env/fullmoonlf.tga
+gfx/env/fullmoonrt.tga
+gfx/env/fullmoonup.tga
+//models/otherworld/p_lamp.mdl
+//models/otherworld/skeleton_avp.mdl
+//models/otherworld/skeleton_rope.mdl
+//models/otherworld/table.mdl
+//models/zm_dust_world/re_deadguy_1.mdl
+//models/zm_dust_world/re_deadguy_3.mdl
+//models/zm_dust_world/TV_plasma.mdl
+//models/zm_dust_world/Vending_machine.mdl
+//sprites/otherworld/d2_portal.spr
+//sprites/otherworld/d2_yber_portal.spr

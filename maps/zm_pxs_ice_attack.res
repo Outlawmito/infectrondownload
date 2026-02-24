@@ -1,0 +1,2 @@
+maps/zm_pxs_ice_attack.bsp
+maps/zm_pxs_ice_attack.res

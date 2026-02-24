@@ -1,0 +1,14 @@
+gfx/env/officeup.tga
+gfx/env/officedn.tga
+gfx/env/officelf.tga
+gfx/env/officert.tga
+gfx/env/officeft.tga
+gfx/env/officebk.tga
+models/fern.mdl
+sound/ambience/burning1.wav
+sound/ambience/copter.wav
+sound/de_torn/torn_ambience.wav
+sound/weapons/mine_activate.wav
+sprites/fire.spr 
+sprites/xbeam2.spr
+sprites/snow.spr

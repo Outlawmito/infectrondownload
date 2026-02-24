@@ -1,0 +1,14 @@
+maps/de_racula2.txt
+maps/de_racula2.res
+overviews/de_racula2.tga
+overviews/de_racula2.txt
+gfx/env/raculaup.tga
+gfx/env/raculadn.tga
+gfx/env/raculart.tga
+gfx/env/raculalf.tga
+gfx/env/raculabk.tga
+gfx/env/raculaft.tga
+sprites/krz.spr
+sprites/kgl.spr
+sprites/grs.spr
+de_racula2.wad

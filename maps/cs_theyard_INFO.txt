@@ -1,0 +1,13 @@
+Half-Life: Counterstrike Map
+****************************************
+
+Map name: cs_theyard
+Map creator: Angel Haven ( angelhaven@thevortex.com)
+Map build with: Worldcraft version 3.3
+Description: A simple deathmatch map with only one goal; eliminate the opposing team. it's built after the like of the awp map
+No. of players:12
+Author notes: This is a beta-stage map and is currently in playtesting. Hope you all enjoy it.
+              
+Wad files used: cs_dust.wad, halflfe.wad (all these files should be in your  CS folder) 
+
+Thank you!

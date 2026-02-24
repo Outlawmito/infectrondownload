@@ -1,0 +1,10 @@
+de_gsu_train1 AKA Train-den-ment - Bomb/Defusal
+by Cha Siu Fan ( Glockster )
+
+An abandoned train yard is thought to hold unused barrels of high explosive. Specialist teams have been deployed to remove the dangerous material. With them, are a Counter-Terrorist team, who believe that a terrorist squad have a notion to take the explosive for themselves.
+
+Terrorists: Kill all Counter-Terrorist forces, so that you can make your escape with the barrels of high explosive. You are provided with C4 explosive, which you should use to kill yourself, your team, and the Counter-Terrorists, should you fail you mission.
+
+CTs: Defend the barrels of explosive against the menacing terrorists. They may attempt to plant their own explosives as a suicidal diversion. Defuse their C4 before it explodes, and kills all of you!
+
+This map is best suited for large teams of players.

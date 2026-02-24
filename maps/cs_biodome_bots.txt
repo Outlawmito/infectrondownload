@@ -1,0 +1,23 @@
+Biodome - Hostage Rescue
+Made by Foofinoo
+
+Map, Custom Textures by Foofinoo
+Made "bot-friendly" by Tigre11ify
+Some textures from CS:CZDS
+Models from Half-Life
+
+
+
+"We received a call, coming from Black Mesa. Terrorists would have taken scientists as hostages. They would be in the Sector E, the "Biodome Complex"...
+
+It's been a while since they want that the experiences carried out there are suspended. Maybe planting a bomb would be easier and more efficient...
+
+Anyway, you gonna be sent there to save the scientists. But be careful, weird things seems to go on over there..."
+
+
+
+Terrorists : 
+Prevent Counter-Terrorists from rescuing the scientists
+
+Counter-Terrorists :
+Rescue the scientists

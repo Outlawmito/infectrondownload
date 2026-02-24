@@ -1,0 +1,18 @@
+Sniper-Pack v.1.0
+------------------------------------------------------------------
+In diesem Pack ist die Trainings-Map "tr_sniper" aus dem
+offiziellen Trainings-Pack des CS-Clans "BountyKillaz"
+enthalten, sowie neue Sounds für ALLE Sniper-Waffen und
+neue Crosshairs enthalten.
+------------------------------------------------------------------
+WELCHE Datei - WO hin?...
+
+Einfach alle Ordner, die in dieser "ZIP"-Datei enthalten sind
+in den CS-Ordner (Standard: C:\SIERRA\Half-Life\cstrike) 
+entpacken.
+------------------------------------------------------------------
+  Viel Spaß wünscht
+
+  Spontana@PCS  -> www.PlanetCS.de     oder
+  -spontana.bk- -> www.egowelt.org/BK-Clan
+------------------------------------------------------------------

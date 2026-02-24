@@ -1,0 +1,17 @@
+Water Works - Bomb/Defuse
+by Waldo (burkenholt@home.com)
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the water works facility.
+Team members must defuse any
+bombs that threaten the facility.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy the processing or
+bio-filter systems at the water works 
+facility.
+
+Other Notes:  Previous Terrorist attempt
+at bombing failed.
+
+(Press FIRE to continue)

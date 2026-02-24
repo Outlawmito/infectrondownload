@@ -1,0 +1,11 @@
+cs_WildWest "Shootout at the HL Corral"
+by dallen
+
+The CTs have arrived on the outskirts of 
+town.  Their plan, to break into the town
+jail and rescue two of their captured 
+comrades.  In order for the jailbreak to 
+be successful the prisoners must make it
+to either train tunnel.
+
+maps at:  www.geocities.com/goodapprentice

@@ -1,0 +1,23 @@
+Soviet - Bomb/Defuse
+by Aeolus (aeolus@microsith.com)
+
+Background: 
+Tyuratam, Soviet Union, The Cold War
+  Elite leaders of a post McCarthy
+anti-communist group, have hired
+terrorists to knock out communication
+readiness at the local MIR recon base.
+
+Terrorists: Eliminate Soviet
+communications by either taking out
+the satellite, or the master
+communications server using C4.
+
+Counter-Terrorists: Prevent Terrorists
+from the detail so expressed by the
+anti-communist group leaders.
+
+Other Notes: There are 2 targets 
+in this mission. 
+
+(Press FIRE to continue)

@@ -1,0 +1,12 @@
+models/dx/maps/bush_05_snow_l.mdl
+models/dx/maps/bush_05_snow.mdl
+models/dx/maps/tree_02b_snow.mdl
+models/dx/maps/tree_02a_snow.mdl
+models/dx/maps/fence_01.mdl
+models/dx/maps/junk_01.mdl
+sound/dx/maps/outside_loop.wav
+sound/dx/maps/dist_explosion2.wav
+sound/dx/maps/disquiet1.wav
+sound/dx/maps/chopper_1.wav
+sound/dx/maps/disquiet2.wav
+maps/dm_arctic.txt

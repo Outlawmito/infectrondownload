@@ -1,0 +1,12 @@
+CROSSFIRE
+by Organic700 (Organic700@gmx.de)
+
+Counter-Terrorists: Prevent Terrorist from activating the button. Use
+whatever force needed, the button too.
+
+Terrorists: Kill the Counter - Terrorists
+
+Other Notes: The siren sounds the whole game, if the button is activated, the siren sounds off!
+
+Special Thanks to the mapper of this map!
+(Press FIRE to continue)

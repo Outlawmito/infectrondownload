@@ -1,0 +1,16 @@
+maps/pcy_blood.res
+models/pcy_blood/arbre_mort17.mdl
+models/pcy_blood/pcy_skeleto.mdl
+models/pcy_blood/furniture_group-hotel02.mdl
+models/pcy_blood/furniture_group-room02.mdl
+models/pcy_blood/deadgign.mdl
+sound/pcy_blood/firefx7.wav
+sound/pcy_blood/waterrun.wav
+sound/pcy_blood/wolfhowl01.wav
+sprites/fire3.spr
+gfx/env/blood_bk.tga
+gfx/env/blood_dn.tga
+gfx/env/blood_ft.tga
+gfx/env/blood_lf.tga
+gfx/env/blood_rt.tga
+gfx/env/blood_up.tga

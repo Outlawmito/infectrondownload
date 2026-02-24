@@ -1,0 +1,13 @@
+gfx/env/officebk.tga
+gfx/env/officedn.tga
+gfx/env/officeft.tga
+gfx/env/officelf.tga
+gfx/env/officert.tga
+gfx/env/officeup.tga
+models/hostage.mdl
+models/scientist.mdl
+sound/ambience/mechwhine.wav
+sound/plats/vehicle4.wav
+sprites/glow01.spr
+overviews/cs_moskva.txt
+overviews/cs_moskva.tga

@@ -1,0 +1,9 @@
+// Detail texture map for aim_crazyjump_real
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+concrete		detail/V367-hd/concrete4k		9.0		9.0
+concrete2		detail/V367-hd/concrete2		9.0		9.0
+plyta1			detail/V367-hd/plyta1			9.0		9.0
+plyta2			detail/V367-hd/woodsd			9.9		9.9
+door			detail/V367-hd/concretesd		9.0		9.0
+woodm			detail/V367-hd/woodsd			9.0		9.0
+brick			detail/V367-hd/concretesd		9.0		9.0

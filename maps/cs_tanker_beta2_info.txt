@@ -1,0 +1,63 @@
+================================================================================
+* LEVEL INFORMATION *
+--------------------------------------------------------------------------------
+TITLE                   : cs_tanker_beta2
+FILENAME                : cs_tanker_beta2.bsp
+AUTHOR                  : Quip (quip@mapediting.de)
+DATE                    : 26/06/2000
+GAME                    : Counterstrike
+Homepage		: http://www.mapediting.de/
+--------------------------------------------------------------------------------
+* INSTALL *
+--------------------------------------------------------------------------------
+
+Extract the files into ../halflife/cstrike/
+
+--------------------------------------------------------------------------------
+* LEVEL DESCRIPTION *
+--------------------------------------------------------------------------------
+
+Counter-Terrorists: Rescue the hostages. 
+Take out the Terrorists without jeopardizing 
+the hostages.
+
+Terrorists: Prevent Counter-Terrorist
+force from rescuing the hostages.
+
+Other Notes: There are 3 hostages in 
+the mission. 
+
+--------------------------------------------------------------------------------
+* CONSTRUCTION *
+--------------------------------------------------------------------------------
+PREFABS USED            : none
+EDITOR(S) USED          : Worldcraft 2.1 Beta
+
+OTHER UTILITIES USED    : ZHLT
+			: Wally
+ 
+KNOWN BUGS              : None
+
+
+--------------------------------------------------------------------------------
+* OTHER LEVELS BY THE AUTHOR *
+--------------------------------------------------------------------------------
+Halflife		:
+Counterstrike           : cs_hideout / de_night
+TFC			: bid_arena
+
+
+================================================================================
+* COPYRIGHT / PERMISSIONS *
+--------------------------------------------------------------------------------
+Authors MAY NOT use this level as a base to build additional levels.
+ 
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+ 
+This LEVEL may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this LEVEL on any CD or distribute it in
+any way without my permission. I would, however, be honored if you did - 
+if you would only email me first!
+ 

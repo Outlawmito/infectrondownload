@@ -1,0 +1,10 @@
+gfx/env/pasmurnobk.tga
+gfx/env/pasmurnodn.tga
+gfx/env/pasmurnoft.tga
+gfx/env/pasmurnolf.tga
+gfx/env/pasmurnort.tga
+gfx/env/pasmurnoup.tga
+models/dude.mdl
+models/flag.mdl
+models/me4i.mdl
+sound/foxer/soundez.wav

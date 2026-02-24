@@ -1,0 +1,15 @@
+Street "Mira"  - Bomb/Defuse
+by Sh@h (http://shah.cs-mapping.com.ua)
+textures by BuZZeR, J.D., KaLaSH, TRUP@C, Sh@h
+models by Xen, BuZZeR, TRUP@C, e4g1e, Sh@h
+sky and sprite by BuZZeR
+
+MADE IN RUSSIA
+
+Counter-Terrorists: Prevent Terrorists
+from bombing boxes with radiotion stuff
+to plant.
+
+Terrorists: The Terrorist carrying the
+C4 must place the bomb at one of the two
+bomb sites around the map to plant.

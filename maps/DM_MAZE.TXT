@@ -1,0 +1,16 @@
+Deathmatch Maze
+by CowDark
+CowDark@hotmail.com
+
+Funny Deathmatch map...
+
+Note: This is Beta 2, im working in 
+De_university so i dont think i will 
+release a version of this map with
+decent r_speeds and fps...
+Well, KNOWN BUGS:
+Machine Guns
+Invisible Boxes
+R_speeds
+Thats it guys, i think is perfect for 
+a LAN Party, enjoy :)

@@ -1,0 +1,16 @@
+Redsand - Bomb/Defuse
+by Warbeast (Warbeast@T-online.de)
+Textures also by Warbeast
+
+Counter-Terrorists: Prevent Terrorists
+from bombing the weapon depots. Team members must
+defuse any bombs that threaten targeted 
+areas.
+
+Terrorists: The Terrorist carrying the
+C4 must destroy one of the targets. 
+
+Other Notes: There are 2 targets 
+in this mission. 
+
+(Press FIRE to continue)
